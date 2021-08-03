@@ -11,7 +11,7 @@ Teammate Checkins
 --------
 2.
 --------
-3.
+3. Harry was here
 --------
 4. This is Chris's check-in
 --------
